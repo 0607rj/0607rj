@@ -11,7 +11,7 @@
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&width=600&height=70&lines=Hey+There!+%F0%9F%91%8B+I'm+Rachit;Full+Stack+Developer+%F0%9F%9A%80;Node.js+%26+React+Specialist+%E2%9A%9B%EF%B8%8F;AI%2FML+Explorer+%F0%9F%A4%96;Building+The+Future+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&width=600&height=70&lines=Hey+There!+%F0%9F%91%8B+I'm+Raj Gupta;Full+Stack+Developer+%F0%9F%9A%80;Node.js+%26+React+Specialist+%E2%9A%9B%EF%B8%8F;AI%2FML+Explorer+%F0%9F%A4%96;Building+The+Future+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -73,7 +73,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50" align="left">
 
 ```yaml
-name: Rachit Kesarwani
+name: Raj Gupta
 role: Full Stack Developer
 location: India
 languages: [JavaScript, TypeScript, Python, HTML/CSS]
@@ -161,7 +161,7 @@ status: Open for opportunities
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-<a href="https://github.com/R123achit">
+<a href="https://github.com/0607rj">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=R123achit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/0607rj">
@@ -170,17 +170,17 @@ status: Open for opportunities
 
 <br/>
 
-<a href="https://github.com/R123achit">
+<a href="https://github.com/0607rj">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R123achit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </a>
-<a href="https://github.com/R123achit">
+<a href="https://github.com/0607rj">
   <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=R123achit&limit=4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" alt="Top Contributions" />
 </a>
 
 <br/>
 
 <!-- GitHub Trophies -->
-<a href="https://github.com/R123achit">
+<a href="https://github.com/0607rj">
   <img src="https://github-profile-trophy.vercel.app/?username=R123achit&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </a>
 
@@ -217,7 +217,6 @@ status: Open for opportunities
 <td width="50%">
 
 ### 🎯 Development Expertise
-- ✅ **3+ Years** of hands-on experience
 - ✅ **15+ Projects** delivered successfully
 - ✅ **10+ Technologies** in production
 - ✅ **Full Stack** development proficiency
@@ -251,26 +250,24 @@ status: Open for opportunities
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 
-<a href="https://github.com/R123achit">
+<a href="https://github.com/0607rj">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=A78BFA" alt="GitHub"/>
 </a>
-<a href="https://linkedin.com/in/rachit-kesarwani">
+<a href="https://linkedin.com/in/0607rj">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=A78BFA" alt="LinkedIn"/>
 </a>
-<a href="mailto:rachitkesarwani@gmail.com">
+<a href="mailto:happyhome18110@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=A78BFA" alt="Email"/>
 </a>
-<a href="https://leetcode.com/rachit">
+<a href="https://leetcode.com/raj_exe">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116&color=A78BFA" alt="LeetCode"/>
 </a>
-<a href="https://codechef.com/users/rachit">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=5B4638&color=A78BFA" alt="CodeChef"/>
-</a>
+
 
 ### 👀 Profile Views & Followers
 
-<img src="https://komarev.com/ghpvc/?username=R123achit&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/R123achit?style=for-the-badge&color=8B5CF6&labelColor=1e1e2e&logo=github" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=0607rjt&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/0607rj?style=for-the-badge&color=8B5CF6&labelColor=1e1e2e&logo=github" alt="Followers"/>
 
 ### 📫 Open for Opportunities
 
