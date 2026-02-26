@@ -1,16 +1,334 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**0607rj/0607rj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:3B82F6&height=200&section=header&text=Welcome%20To%20My%20Digital%20Universe&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20AI/ML%20Enthusiast%20|%20Problem%20Solver&descSize=18&descAlignY=55"/>
 
-Here are some ideas to get you started:
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&width=600&height=70&lines=Hey+There!+%F0%9F%91%8B+I'm+Rachit;Full+Stack+Developer+%F0%9F%9A%80;Node.js+%26+React+Specialist+%E2%9A%9B%EF%B8%8F;AI%2FML+Explorer+%F0%9F%A4%96;Building+The+Future+%E2%9C%A8" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" /> About Me
+
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍💻 Who Am I?
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" align="left">
+
+**Full Stack Developer & AI/ML Enthusiast**
+
+🎓 Final Year B.Tech IT Student  
+💼 3+ Years of Coding Experience  
+🌟 15+ Real-World Projects Delivered  
+🎯 Building Scalable Web Applications
+
+<br/>
+
+### 💻 Tech Arsenal
+
+**Frontend Magic:**  
+⚛️ React • Next.js • TailwindCSS
+
+**Backend Power:**  
+🚀 Node.js • Express • MongoDB
+
+**AI/ML Tools:**  
+🤖 TensorFlow • PyTorch • Scikit-learn • Keras
+
+**Dev Tools:**  
+🛠️ Git • Postman • Socket.io • Redux
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Quick Stats
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50" align="left">
+
+```yaml
+name: Rachit Kesarwani
+role: Full Stack Developer
+location: India
+languages: [JavaScript, TypeScript, Python, HTML/CSS]
+experience: 3+ years
+focus: Web Development & AI/ML
+status: Open for opportunities
+```
+
+### 🏆 Achievements
+
+📊 **135** LeetCode Problems Solved  
+⭐ **2 Star** CodeChef (1497 Rating)  
+🎨 **10+** Technologies Mastered  
+📦 **10** Public Repositories  
+🚀 **15+** Projects Completed
+
+### 🎮 Fun Fact
+
+*"I debug with console.log and I'm proud of it! 😎"*
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🔥 Current Focus
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+**Building scalable web applications** • **Exploring AI/ML technologies** • **Contributing to open source**
+
+</div>
+
+<!-- Gradient Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"> Tech Stack & Skills
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+
+### 🚀 Currently Mastering
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git&theme=dark&perline=11" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+
+### 📚 Currently Learning
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,redux,postman&theme=dark&perline=10" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+
+### 🛠️ Additional Tools & Technologies
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
+
+</div>
+
+<!-- Gradient Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"> GitHub Statistics
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<a href="https://github.com/R123achit">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=R123achit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/0607rj">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=R123achit&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" alt="GitHub Streak" />
+</a>
+
+<br/>
+
+<a href="https://github.com/R123achit">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R123achit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+</a>
+<a href="https://github.com/R123achit">
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=R123achit&limit=4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" alt="Top Contributions" />
+</a>
+
+<br/>
+
+<!-- GitHub Trophies -->
+<a href="https://github.com/R123achit">
+  <img src="https://github-profile-trophy.vercel.app/?username=R123achit&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</a>
+
+</div>
+
+<!-- Gradient Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50"> Coding Achievements
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+| Platform | Achievement | Details |
+|----------|-------------|---------|
+| <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"> | **LeetCode** | 135 Problems Solved<br/>🟢 32 Easy • 🟡 84 Medium • 🔴 19 Hard |
+| <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"> | **CodeChef** | ⭐⭐ 2 Star (1497 Rating)<br/>45 Problems Solved |
+| <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"> | **GitHub** | 10 Public Repositories<br/>15+ Real Projects |
+
+</div>
+
+<!-- Gradient Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="50"> What I Bring To The Table
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Development Expertise
+- ✅ **3+ Years** of hands-on experience
+- ✅ **15+ Projects** delivered successfully
+- ✅ **10+ Technologies** in production
+- ✅ **Full Stack** development proficiency
+
+</td>
+<td width="50%">
+
+### 🚀 Technical Skills
+- ✅ **RESTful APIs** & microservices
+- ✅ **Responsive Design** & modern UI/UX
+- ✅ **AI/ML** integration with Python
+- ✅ **Agile** methodologies & teamwork
+
+</td>
+</tr>
+</table>
+
+### 🧠 Problem Solving
+**135+ LeetCode Problems** | **2★ CodeChef** | **Continuous Learner**
+
+</div>
+
+<!-- Gradient Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="📞" width="50" /> Connect With Me
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+
+<a href="https://github.com/R123achit">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=A78BFA" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/rachit-kesarwani">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=A78BFA" alt="LinkedIn"/>
+</a>
+<a href="mailto:rachitkesarwani@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=A78BFA" alt="Email"/>
+</a>
+<a href="https://leetcode.com/rachit">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116&color=A78BFA" alt="LeetCode"/>
+</a>
+<a href="https://codechef.com/users/rachit">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=5B4638&color=A78BFA" alt="CodeChef"/>
+</a>
+
+### 👀 Profile Views & Followers
+
+<img src="https://komarev.com/ghpvc/?username=R123achit&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/R123achit?style=for-the-badge&color=8B5CF6&labelColor=1e1e2e&logo=github" alt="Followers"/>
+
+### 📫 Open for Opportunities
+
+<img src="https://img.shields.io/badge/Available%20for-Freelance%20%7C%20Full--time-brightgreen?style=for-the-badge&logo=handshake&logoColor=white&color=8B5CF6" alt="Available"/>
+
+</div>
+
+<!-- Gradient Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="🔥" width="50" /> Contribution Graph
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/R123achit/R123achit/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/R123achit/R123achit/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/R123achit/R123achit/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<!-- Gradient Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="💭" width="35" /> Dev Quote of the Day
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="😃" width="35" /> Random Dev Meme
+
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+### 🚀 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
+
+**⭐ From [R123achit](https://github.com/R123achit) | Let's Build Something Amazing Together! 💫**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+</div>
+
+<!-- Animated Footer Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
