@@ -321,7 +321,7 @@ status: Open for opportunities
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
 
-**⭐ From [R123achit](https://github.com/R123achit) | Let's Build Something Amazing Together! 💫**
+**⭐ From [0607rj](https://github.com/0607rj) | Let's Build Something Amazing Together! 💫**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
